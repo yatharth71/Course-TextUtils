@@ -56,7 +56,7 @@ function App() {
               {/* <About /> */}
             {/* </Route> */}
             {/* <Route exact path="/"> */}
-            <TextForm showAlert={showAlert} heading="Try TextUtils - word counter, character counter, remove extra spaces" mode={mode}/>
+            <TextForm showAlert={showAlert} heading="Try TextUtils - Word counter, Character counter, Remove extra spaces" mode={mode}/>
             {/* </Route> */}
           {/* </Switch> */}
         </div>
